@@ -64,3 +64,15 @@ Calls on count_diploid_snps.py to iterate over diploid genomes and counts SNPs t
 ### 5. 'make-mash-distancematrix.slurm
 
 Iterates over samples and calls `mash dist` command to make mash distance matrix.
+
+---
+
+### 6. `environments/`
+Used to make diploid simulations:
+```
+msprime-env.yml  
+```
+Used to run ReSkmer/DipSkmer/Skmer/Mash:
+```
+run_skmer.yml
+```
