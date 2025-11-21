@@ -7,9 +7,6 @@ The pipeline is designed around:
 
 - **msprime** for coalescent simulation of diploid and population genomes  
 - **ART MountRainier** for generating Illumina-style sequencing reads  
-- **Slurm** batch scheduling for large-scale population simulations  
-
-These tools allow controlled evaluation of distance-based methods (e.g., Skmer, Mash, ReSkmer, DipSkmer, Respect) under different genome sizes, ploidy levels, and sequencing regimes.
 
 ---
 
